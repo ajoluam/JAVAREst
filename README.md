@@ -1,4 +1,6 @@
 # JAVAREst
+Aplicação(sem front) desenvolvida seguindo orientação do site abaixo  -  
+https://medium.com/assertqualityassurance/como-construir-e-testar-uma-api-em-java-utilizando-o-postman-baae69d8b8aa
 Aplicação Rest
 package com.montanha.gerenciador;
 
